@@ -1,1 +1,1 @@
-bc72fa58-564a-11e5-88d2-5cf9dd5a2c5a
+class Cake{public static void main(Stirng args[]){System.out.println("The cake is a lie.")}}
