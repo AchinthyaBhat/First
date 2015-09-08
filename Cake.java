@@ -1,1 +1,5 @@
-class Cake{public static void main(Stirng args[]){System.out.println("The cake is a lie.")}}
+class Cake{
+    public static void main(String args[]){
+        System.out.println("The cake is a lie.");
+    }
+}
